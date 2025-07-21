@@ -1,4 +1,4 @@
-## Hi there 👋 Kushaagr Mehrotra | कुशाग्र मेहरोत्रा
+## Hi there 👋 Kushaagr Mehrotra | कुशाग्र मेहरोत्रा (Student in Data Science)
 
 <!--
 **kushaagr/kushaagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on research in 3D computer vision where I deal with robotic arm manipulation
 - 📫 How to reach me: [kushag.jpg](https://www.instagram.com/kushag.jpg) on Instagram, [..../in/kushaagr/](https://www.linkedin.com/in/kushaagr/) on linkedin
+
+----
+
+![Total Visitors](https://api.visitorbadge.io/api/VisitorHit?user=kushaagr&repo=kushaagr&countColor=%237B1E7A)
