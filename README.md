@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 - 🔭 I’m currently working on research in 3D computer vision where I deal with robotic arm manipulation
-- 📫 How to reach me: [kushag.jpg](https://www.instagram.com/kushag.jpg) on Instagram, [..../in/kushaagr/](https://www.linkedin.com/in/kushaagr/) on linkedin
+- 📫 How to reach me: [kushag.jpg](https://www.instagram.com/kushag.jpg) on Instagram, [..../in/kushaagr/](https://www.linkedin.com/in/kushaagr/) on linkedin, [@kushaaagr](https://www.x.com/kushaaagr) on X.com
 
 ----
 
